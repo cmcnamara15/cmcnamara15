@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=cmcnamara15&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cmcnamara15&theme=tokyonight)](https://git.io/streak-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmcnamara15&show_icons=true&theme=tokyonight)
  -->
